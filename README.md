@@ -2,6 +2,7 @@
 
 Build in Vue.js and THREE.js
 
+[Build Link, Netlify](https://nervous-heyrovsky-1462aa.netlify.app/#/)
 [Read the Wiki](https://github.com/Senpaizuri/Freespace-Rebuild/wiki)
 
 <details>
