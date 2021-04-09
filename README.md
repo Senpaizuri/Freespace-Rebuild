@@ -1,5 +1,34 @@
 # Freespace Rebuild
 
+Build in Vue.js and THREE.js
+
+[Read the Wiki](https://github.com/Senpaizuri/Freespace-Rebuild/wiki)
+
+<details>
+
+<summary>Screenshots Story</summary>
+
+![Darkmode](/docs/darkmode.png)
+![Lightmode](/docs/lightmode.png)
+
+</details>
+
+```batch
+
+# install
+
+npm run install
+
+# run server
+
+npm run dev
+
+# build
+
+npm run build
+
+```
+
 # Inspiration
 
 * [Storytelling map](https://tympanus.net/Development/StorytellingMap/)
@@ -10,7 +39,7 @@
 
 * [Fantasy map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
 * [Normal map generator](https://cpetry.github.io/NormalMap-Online/)
-* [water texture](https://3dtextures.me/2018/11/29/water-002/)
+* [Water texture](https://3dtextures.me/2018/11/29/water-002/)
 
 # "Literature"
 
