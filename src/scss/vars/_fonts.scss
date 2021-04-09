@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "spiegel";
+    src: url("/fonts/spiegel-bold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "beaufort";
+    src: url("/fonts/beaufort-medium-lol.woff2") format("woff2");
+}
+
+$font-spiegel: "spiegel",
+sans-serif;
+$font-beaufort: "beaufort",
+sans-serif;
+
+$font-size-xsmall: .68rem;
+$font-size-small: .75rem;
+$font-size-medium: 1.125rem;
+$font-size-mediumX: 1.5rem;
+$font-size-large: 1.875rem;
+$font-size-xlarge: 2.375rem;
+$font-size-xxlarge: 3.75rem;

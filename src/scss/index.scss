@@ -1,0 +1,15 @@
+@import './dist/normalize';
+@import './vars/index';
+@import './animations/';
+
+*,*::before,*::after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-style: normal;
+}
+body{
+    overflow-x: hidden;
+    font-family: $font-beaufort;
+    font-weight: 300;
+}
