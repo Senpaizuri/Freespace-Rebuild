@@ -1,5 +1,10 @@
 # Freespace Rebuild
 
+# Inspiration
+
+* [Storytelling map](https://tympanus.net/Development/StorytellingMap/)
+* [Map of runterra](https://map.leagueoflegends.com/en_US)
+
 # "Literature"
 
 ## Three.js
