@@ -1,5 +1,5 @@
 <template>
-    <canvas class="scene" :class="isSticky && 'is-sticky'" :width="sizes.width" :height="sizes.height" ref="scene">
+    <canvas class="scene" :class="isSticky && 'is-sticky'" ref="scene">
     </canvas>
 </template>
 
